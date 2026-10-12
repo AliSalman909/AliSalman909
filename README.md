@@ -99,29 +99,34 @@ I'm a computer science undergraduate working across **backend development** and 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+
 ## 🚀 Featured Portfolio
 
-### 01 · Chronaide — Sovereign Multi-Agent Intelligence System
+### 🤖 AI / Machine Learning
 
-Privacy-preserving AI assistant with a multi-agent reasoning pipeline and hybrid GraphRAG memory. **LangGraph · Ollama · FastAPI · Neo4j · Qdrant**
+- 🧠 **[Chronaide — Multi-Agent AI System](https://github.com/rehman845/Chronaide)**
+- 📚 **[Quiz Generation from RACE Dataset](https://github.com/AliSalman909/QuizGenerationFromRACE-Dataset)**
 
-### 02 · MeetingMind AI Platform
+### 💻 Software Engineering & Web Development
 
-AI-powered meeting intelligence with transcript processing, automated meeting bot deployment, calendar extraction, and real-time voice agent integration. **FastAPI · LiveKit · MongoDB · OpenAI**
+- ⚛️ **[React Mini Projects](https://github.com/AliSalman909/React-MiniProjects)**
 
-### 03 · Base-Hive SaaS Platform
+### ☁️ Cloud & DevSecOps
 
-Multi-tenant white-label social media management: cross-platform publishing, scheduling, analytics, and API-driven workflows. **Next.js · FastAPI · PostgreSQL · Redis · Docker**
+- 🔐 **[DevSecOps Project](https://github.com/AliSalman909/DevSecOps-Project)**
 
-### 04 · DevSecOps Cloud Deployment
+---
 
-Secure CI/CD pipeline with vulnerability scanning, deployment automation, and monitoring. **Jenkins · Docker · AWS EC2 · Prometheus · Grafana · Argo CD**
+<div align="center">
 
-### 05 · Intelligent Reading Comprehension Quiz Generator
+### 🔎 Explore More Projects
 
-ML-assisted quiz generation, answer verification, distractors, and graduated hints using the RACE dataset. **Streamlit · TF-IDF · SVM · Random Forest · Logistic Regression**
+<a href="https://github.com/AliSalman909?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+</a>
 
-> **Project links:** Add repository/demo links to the entries above when you're ready to share them. Some projects may be private or employer-owned.
+</div>
+
 
 ## 📊 Developer Dashboard
 
