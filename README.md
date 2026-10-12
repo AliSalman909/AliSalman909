@@ -115,6 +115,10 @@ I'm a computer science undergraduate working across **backend development** and 
 
 - 🔐 **[DevSecOps Project](https://github.com/AliSalman909/DevSecOps-Project)**
 
+
+> 🔒 **Note:** Most of my projects and repositories are kept private due to confidentiality, privacy considerations, and proprietary work. The projects showcased above represent a selection of my publicly available work.
+
+
 ---
 
 <div align="center">
