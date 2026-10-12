@@ -123,7 +123,7 @@ ML-assisted quiz generation, answer verification, distractors, and graduated hin
 
 <div align="center">
 
-![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AliSalman909&bg_color=0B121A&color=22D3EE&line=22D3EE&point=F1FCFF&area=true&area_color=0B6576&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliSalman909&theme=github-compact&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff&area=true&hide_border=true" alt="Ali Bin Salman contribution graph" />
 
 </div>
 
