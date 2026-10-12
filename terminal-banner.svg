@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Ali Bin Salman developer terminal banner">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06090F"/><stop offset="1" stop-color="#0B1B23"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1A4453" stroke-width=".6" opacity=".23"/></pattern><linearGradient id="line" x1="0" x2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#087D9F"/></linearGradient></defs>
+<rect width="1200" height="380" rx="24" fill="url(#bg)"/><rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+<rect x="28" y="26" width="1144" height="328" rx="16" fill="#0B121A" stroke="#235467" stroke-width="2"/>
+<path d="M44 27 H1156 Q1172 27 1172 43 V79 H28 V43 Q28 27 44 27" fill="#12212B"/>
+<circle cx="59" cy="52" r="7" fill="#FF6B6B"/><circle cx="82" cy="52" r="7" fill="#F5C451"/><circle cx="105" cy="52" r="7" fill="#34D399"/>
+<text x="600" y="58" fill="#9DB8C3" text-anchor="middle" font-size="17" font-family="DejaVu Sans Mono,monospace">ali@github: ~/profile — bash</text>
+<text x="70" y="120" fill="#22D3EE" font-size="22" font-family="DejaVu Sans Mono,monospace">ali@github:~$</text>
+<text x="273" y="120" fill="#E8F7FA" font-size="22" font-family="DejaVu Sans Mono,monospace">whoami</text>
+<text x="70" y="188" fill="#F5FAFC" font-size="53" font-weight="bold" font-family="DejaVu Sans,sans-serif">Ali Bin Salman</text>
+<rect x="71" y="204" width="475" height="3" rx="2" fill="url(#line)"/>
+<text x="71" y="249" fill="#9FE9F4" font-size="23" font-family="DejaVu Sans,sans-serif">Software Engineering  /  AI &amp; ML  /  Backend</text>
+<text x="71" y="301" fill="#90A7B2" font-size="19" font-family="DejaVu Sans Mono,monospace">FAST-NUCES  •  Application Engineer  •  Building intelligent systems</text>
+<text x="1100" y="122" fill="#20798D" font-size="46" text-anchor="end" font-family="DejaVu Sans Mono,monospace">&gt;_</text>
+<rect x="71" y="320" width="12" height="21" fill="#22D3EE"/>
+</svg>
