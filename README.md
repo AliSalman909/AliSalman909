@@ -5,6 +5,21 @@
   <br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+scalable+backends+and+SaaS+platforms;Exploring+agentic+AI%2C+LLMs+and+RAG;Engineering+end-to-end+intelligent+applications" alt="Animated typing" />
+  
+
+<p align="center">
+  <a href="mailto:alibinsalman909@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ali-bin-salman-2b652b190/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/755808331335204865">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+
 
 </div>
 
