@@ -1,14 +1,10 @@
 <div align="center">
 
-![Ali Bin Salman — terminal-style developer banner](assets/terminal-banner.svg)
+  <img src="terminal-banner.svg" width="100%" alt="Ali Bin Salman — Developer Banner" />
 
-### Software Engineering · AI/ML · Backend Systems
+  <br>
 
-**Computer Science @ FAST-NUCES** · **Application Engineer @ SavvPro**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+scalable+backends+and+SaaS+platforms;Exploring+agentic+AI%2C+LLMs+and+RAG;Engineering+end-to-end+intelligent+applications" alt="Animated typing: software engineering, agentic AI and scalable applications" />
-
-[About](#-about-me) · [Interests](#-fields-of-interest) · [Stack](#-tech-stack--languages) · [Projects](#-featured-portfolio) · [Dashboard](#-developer-dashboard) · [Activity](#-contribution-activity) · [Contact](#-connect-with-me)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+scalable+backends+and+SaaS+platforms;Exploring+agentic+AI%2C+LLMs+and+RAG;Engineering+end-to-end+intelligent+applications" alt="Animated typing" />
 
 </div>
 
