@@ -123,7 +123,7 @@ ML-assisted quiz generation, answer verification, distractors, and graduated hin
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliSalman909&theme=github-compact&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff&area=true&hide_border=true" alt="Ali Bin Salman contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=AliSalman909&theme=black-ice&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak stats" />
 
 </div>
 
